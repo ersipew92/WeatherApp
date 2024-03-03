@@ -1,0 +1,1 @@
+WeatherApp is a simple yet powerful application that provides real-time weather information, forecasts, and alerts for any location, helping users plan their activities accordingly.
